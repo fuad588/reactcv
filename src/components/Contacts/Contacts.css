@@ -1,0 +1,22 @@
+.contacts{
+    width: 100%;
+    background-color: rgb(153, 230, 204);
+}
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px;
+}
+#form input{
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    padding: 10px;
+}
+button{
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(75, 155, 246);
+}
